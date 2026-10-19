@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="480" viewBox="0 0 600 480" fill="none">
+  <title>Ignis Behemoth, the volcanic dragon</title>
+  <defs>
+    <radialGradient id="a"><stop stop-color="#f7a278" stop-opacity=".45"/><stop offset="1" stop-color="#f7a278" stop-opacity="0"/></radialGradient>
+    <linearGradient id="b" x1="297" y1="156" x2="307" y2="429" gradientUnits="userSpaceOnUse"><stop stop-color="#71626a"/><stop offset=".48" stop-color="#403947"/><stop offset="1" stop-color="#292831"/></linearGradient>
+    <linearGradient id="c" x1="300" y1="180" x2="300" y2="427" gradientUnits="userSpaceOnUse"><stop stop-color="#f1a066"/><stop offset=".45" stop-color="#b8533d"/><stop offset="1" stop-color="#563c42"/></linearGradient>
+    <linearGradient id="d" x1="292" y1="52" x2="315" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#97858a"/><stop offset=".42" stop-color="#61505d"/><stop offset="1" stop-color="#312d39"/></linearGradient>
+    <linearGradient id="e" x1="300" y1="44" x2="300" y2="156" gradientUnits="userSpaceOnUse"><stop stop-color="#f2d8b2"/><stop offset=".48" stop-color="#b9a08b"/><stop offset="1" stop-color="#655160"/></linearGradient>
+    <linearGradient id="f" x1="143" y1="122" x2="223" y2="289" gradientUnits="userSpaceOnUse"><stop stop-color="#8d4e53"/><stop offset=".45" stop-color="#683c49"/><stop offset="1" stop-color="#b55648"/></linearGradient>
+    <linearGradient id="g"><stop stop-color="#ffdc83"/><stop offset="1" stop-color="#ff6f42"/></linearGradient>
+    <filter id="h" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
+    <filter id="i" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="16" stdDeviation="12" flood-color="#452c31" flood-opacity=".28"/></filter>
+  </defs>
+  <ellipse cx="300" cy="254" rx="253" ry="221" fill="url(#a)"/>
+  <ellipse cx="306" cy="436" rx="176" ry="18" fill="#6b3d3b" opacity=".13"/>
+  <g filter="url(#i)">
+    <path d="m237 234-29-83-53-42-46 1-27 30 40-8 19 21-3 32 32-1 21 39-2 48z" fill="url(#f)" stroke="#4c3a46" stroke-width="5"/>
+    <path d="m363 234 29-83 53-42 46 1 27 30-40-8-19 21 3 32-32-1-21 39 2 48z" fill="url(#f)" stroke="#4c3a46" stroke-width="5"/>
+    <path d="m237 234-42-55-37-41-38-18m75 59-32 1m74 54-36-4M363 234l42-55 37-41 38-18m-75 59 32 1m-74 54 36-4" stroke="#d98261" stroke-width="4" stroke-linecap="round"/>
+    <path d="m353 350 52-12 43 16 24 31 25 12 25-5-16 20-35 1-35-24-34-5-45 19z" fill="url(#b)" stroke="#3e3442" stroke-width="4"/>
+    <path d="m432 355 3-21 21 24m20 22 8-15 13 27m-73-9 10-13" stroke="#e27650" stroke-width="5"/>
+    <path d="m237 203-35 23-25 56-36 35-9 66 23 28 38-6 23-68 29-31zM363 203l35 23 25 56 36 35 9 66-23 28-38-6-23-68-29-31z" fill="url(#b)" stroke="#3c3241" stroke-width="4"/>
+    <path d="m234 200-24 68 12 61-14 68 19 34 49 3 24-40 24 40 49-3 19-34-14-68 12-61-24-68z" fill="url(#b)" stroke="#3c3241" stroke-width="5"/>
+    <path d="m274 222-21 37 8 30-8 27 13 30-3 30 37 28 37-28-3-30 13-30-8-27 8-30-21-37-26-10z" fill="url(#c)" stroke="#7c4c49" stroke-width="3"/>
+    <path d="m260 266 40 12 40-12m-78 31 38 12 38-12m-78 31 40 12 40-12m-73 30 33 11 33-11" stroke="#5d4146" stroke-width="4"/>
+    <path d="m225 216-28 1-17 30 24 8-29 26 35 4 20-29 24-21zM375 216l28 1 17 30-24 8 29 26-35 4-20-29-24-21z" fill="url(#d)" stroke="#3c3241" stroke-width="3"/>
+    <path d="m198 221-10-25 25 11 9 14m-33 35-23-7 17 23m219-51 10-25-25 11-9 14m33 35 23-7-17 23" fill="url(#e)" stroke="#6e5861" stroke-width="2"/>
+    <path d="m247 137-29-22-15-33-3-40 18 28 20 14 22 7 13 40zM353 137l29-22 15-33 3-40-18 28-20 14-22 7-13 40z" fill="url(#e)" stroke="#77626c" stroke-width="3"/>
+    <path d="m255 113 8-39 15-25 4 40-5 29m68-5-8-39-15-25-4 40 5 29" fill="url(#e)" stroke="#77626c" stroke-width="3"/>
+    <path d="m248 109-23 31 8 37-12 29 23 37 56 29 56-29 23-37-12-29 8-37-23-31-52-10z" fill="url(#d)" stroke="#3c3241" stroke-width="4"/>
+    <path d="m253 115 21 26 26-13 26 13 21-26-7 41 20 23-14 24-46 16-46-16-14-24 20-23z" fill="#6b5360"/>
+    <path d="m239 165 40 15-12 24-29-9zM361 165l-40 15 12 24 29-9z" fill="#2a2731"/>
+    <path d="m247 179 25 5-8 11-20-6zM353 179l-25 5 8 11 20-6z" fill="#ffb759"/>
+    <path d="m251 183 13 3m72 0 13-3" stroke="#ffe8a1" stroke-width="4"/>
+    <path d="m300 144-11 21 2 24-12 20 21 17 21-17-12-20 2-24z" fill="#997271"/>
+    <path d="m270 212-25 9 8 24 47 23 47-23 8-24-25-9-30 14z" fill="#6f4a51" stroke="#3c3241" stroke-width="3"/>
+    <path d="m255 228 18 9 27 6 27-6 18-9-11 21-34 10-34-10z" fill="#291f2e"/>
+    <path d="m261 232 5 14 9-9m8 4 7 12 6-10m10 0 6 10 7-12m8-4 9 9 5-14" fill="#f2d1a0"/>
+    <path d="m278 211 8 2m28 0 8-2" stroke="#302831" stroke-width="6" stroke-linecap="round"/>
+    <path d="m300 101-10 13 10 10 10-10z" fill="#ff9e5e"/>
+    <path d="m215 283 9 21-15 20 3 31-12 18m185-90-9 21 15 20-3 31 12 18m-144-176-10 13 8 12m92-25 10 13-8 12" stroke="#f48c55" stroke-width="4" stroke-linecap="round"/>
+    <path d="m150 325 18 6 7 22-12 19m287-47-18 6-7 22 12 19m-146 20-9 19m36-19 9 19" stroke="#ef7d4f" stroke-width="3" stroke-linecap="round"/>
+    <path d="m146 373-9 28 16 14 41-9 1-22-19-9zM454 373l9 28-16 14-41-9-1-22 19-9zM231 394l-17 30 12 13 54-2 4-26-19-15zM369 394l17 30-12 13-54-2-4-26 19-15z" fill="#4b3b45" stroke="#342a38" stroke-width="4"/>
+    <path d="m143 402 12-17 2 23m8-1 13-17 1 21m48 18 11-19 5 22m11 0 12-19 4 22m187-33-12-17-2 23m-8-1-13-17-1 21m-48 18-11-19-5 22m-11 0-12-19-4 22" fill="#d4c2a3" stroke="#79636a" stroke-width="2"/>
+    <path d="m234 128-17 19-4 23 23-9m131-33 17 19 4 23-23-9" fill="url(#e)" stroke="#77626c" stroke-width="2"/>
+    <path d="m285 283 15 6 15-6-5 19-10 5-10-5z" fill="#ffab5f"/>
+    <path d="m298 292 2 7 3-7" stroke="#ffe3a2" stroke-width="3"/>
+  </g>
+  <g fill="#f9a15d"><path d="m99 290 5-14 6 12-5 7zM493 233l6-17 7 15-7 9zM177 87l3-10 4 9-4 6zM409 65l5-14 5 13-5 7zM110 392l3-10 4 9-4 6z"/><circle cx="149" cy="253" r="3"/><circle cx="459" cy="298" r="3"/><circle cx="461" cy="181" r="2"/><circle cx="218" cy="55" r="2"/></g>
+  <g fill="#ff8e4a" opacity=".6" filter="url(#h)"><circle cx="104" cy="286" r="7"/><circle cx="499" cy="232" r="7"/><circle cx="300" cy="293" r="12"/></g>
+</svg>

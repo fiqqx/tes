@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="480" viewBox="0 0 600 480" fill="none">
+  <title>Frostborne Queen, sovereign of the frozen skies</title>
+  <defs>
+    <radialGradient id="a"><stop stop-color="#accaf7" stop-opacity=".5"/><stop offset="1" stop-color="#c1d3fa" stop-opacity="0"/></radialGradient>
+    <linearGradient id="b" x1="300" y1="197" x2="300" y2="439" gradientUnits="userSpaceOnUse"><stop stop-color="#6386ae"/><stop offset=".42" stop-color="#466895"/><stop offset="1" stop-color="#233a68"/></linearGradient>
+    <linearGradient id="c" x1="300" y1="208" x2="300" y2="429" gradientUnits="userSpaceOnUse"><stop stop-color="#e5edf3"/><stop offset=".45" stop-color="#a4c3df"/><stop offset="1" stop-color="#7a9abe"/></linearGradient>
+    <linearGradient id="d" x1="172" y1="113" x2="270" y2="317" gradientUnits="userSpaceOnUse"><stop stop-color="#ecf4fa"/><stop offset=".53" stop-color="#b2d0e6"/><stop offset="1" stop-color="#6c96bd"/></linearGradient>
+    <linearGradient id="e" x1="306" y1="79" x2="306" y2="232" gradientUnits="userSpaceOnUse"><stop stop-color="#f3f7fb"/><stop offset=".65" stop-color="#bed3e8"/><stop offset="1" stop-color="#7d9fc2"/></linearGradient>
+    <linearGradient id="f" x1="303" y1="122" x2="303" y2="211" gradientUnits="userSpaceOnUse"><stop stop-color="#f9e9df"/><stop offset="1" stop-color="#dfc8d2"/></linearGradient>
+    <linearGradient id="g" x1="434" y1="167" x2="457" y2="204" gradientUnits="userSpaceOnUse"><stop stop-color="#f0faff"/><stop offset=".48" stop-color="#90d5ed"/><stop offset="1" stop-color="#568fc8"/></linearGradient>
+    <filter id="h" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="i" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#3b4b75" flood-opacity=".25"/></filter>
+  </defs>
+  <ellipse cx="300" cy="252" rx="250" ry="220" fill="url(#a)"/>
+  <ellipse cx="302" cy="439" rx="157" ry="15" fill="#42668a" opacity=".12"/>
+  <g filter="url(#i)">
+    <path d="m259 217-30-49-47-29-55-20 25 42-52-18 35 42-48-2 49 37-36 11 54 21-23 17 47 8-8 22 47-4 28 31 27-48z" fill="url(#d)" stroke="#7c9ebf" stroke-width="3"/>
+    <path d="m341 217 30-49 47-29 55-20-25 42 52-18-35 42 48-2-49 37 36 11-54 21 23 17-47 8 8 22-47-4-28 31-27-48z" fill="url(#d)" stroke="#7c9ebf" stroke-width="3"/>
+    <path d="m145 143 70 62 23 49m-87-87 58 55 19 51m-90-75 66 44 17 43m-71-49 49 26 14 36M455 143l-70 62-23 49m87-87-58 55-19 51m90-75-66 44-17 43m71-49-49 26-14 36" stroke="#f3f8ff" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+    <path d="m263 203-25 45 5 67-26 65-45 44 34 3-8 17 58-10 44-13 44 13 58 10-8-17 34-3-45-44-26-65 5-67-25-45z" fill="url(#b)" stroke="#496c95" stroke-width="3"/>
+    <path d="m276 216-13 56 11 42-18 60-26 50 35-9 35-10 35 10 35 9-26-50-18-60 11-42-13-56z" fill="url(#c)"/>
+    <path d="m275 315 25 16 25-16-8 38 17 50-34-15-34 15 17-50z" fill="#537fa7"/>
+    <path d="m300 331-9 25 9 25 9-25z" fill="#c5eff7"/>
+    <path d="m262 216-32-3-13 19-1 35-21 26-15-1-8 12 16 15 24-4 33-35 15-30zM338 216l30-3 13 19 1 35 21 17 23-13 10 13-24 22-19-2-38-24-15-30z" fill="url(#b)" stroke="#496c95" stroke-width="3"/>
+    <path d="m238 226-13 24 16 10 14-25zM362 226l13 24-16 10-14-25z" fill="#d3e3ee"/>
+    <path d="m190 293-12-5-11 5 4 8 11 5 7 9 8-10zM419 276l10-9 11 3 3 12-10 6-9 1z" fill="url(#f)" stroke="#8b9ebb" stroke-width="2"/>
+    <path d="m256 204-24 6-6 16 19 17 23-7 32 19 32-19 23 7 19-17-6-16-24-6-44 12z" fill="url(#d)" stroke="#7c9ebf" stroke-width="3"/>
+    <path d="m241 216 16 6m-10 8 14-1m98-13-16 6m10 8-14-1" stroke="#f1f8ff" stroke-width="3" stroke-linecap="round"/>
+    <path d="m282 196-4 21 22 24 22-24-4-21z" fill="url(#f)"/>
+    <path d="m259 102-20 29-5 49 11 41-11 20 28-5 18-26 42 1 18 25 26 5-11-20 12-41-5-49-20-29-41-16z" fill="url(#e)" stroke="#84a1bf" stroke-width="3"/>
+    <path d="m268 120-12 21 4 36 12 23 28 16 28-16 12-23 4-36-12-21-32-10z" fill="url(#f)" stroke="#b7afbf" stroke-width="2"/>
+    <path d="m300 105-16 30-18 13-10-1 6-22 16-16zM300 105l16 30 18 13 10-1-6-22-16-16z" fill="#e6eff7"/>
+    <path d="m264 153 20 2 4 7-15 4-9-6zM336 153l-20 2-4 7 15 4 9-6z" fill="#465674"/>
+    <path d="m270 158 12 2-8 3zM330 158l-12 2 8 3z" fill="#83c9e5"/>
+    <path d="m268 152 17 2m47-2-17 2" stroke="#6d657f" stroke-width="3" stroke-linecap="round"/>
+    <path d="m300 158-4 17 5 4" stroke="#c8a9bb" stroke-width="2" stroke-linecap="round"/>
+    <path d="m292 188 8 2 9-2-7 6-4-1z" fill="#a2718b"/>
+    <path d="m245 156 7 42 20 24-7 15-16-19-9-27zM355 156l-7 42-20 24 7 15 16-19 9-27z" fill="#dce9f4"/>
+    <path d="m246 106-8-32 22 17 8-40 20 31 12-46 12 46 20-31 8 40 22-17-8 32-28 17-26-7-26 7z" fill="url(#e)" stroke="#7d9ebe" stroke-width="3"/>
+    <path d="m300 55-9 33 9 15 9-15zM268 66l-1 28 12 9-2-21zM332 66l1 28-12 9 2-21z" fill="#7db6d7"/>
+    <path d="m300 86-7 13 7 14 7-14z" fill="#a8e5f1" stroke="#effcff" stroke-width="2"/>
+    <path d="m268 258 32 15 32-15-8 34-24 14-24-14z" fill="#5c85ad" stroke="#b8d7e9" stroke-width="2"/>
+    <path d="m300 263-11 19 11 19 11-19z" fill="#d8edf5" stroke="#7cb5d6" stroke-width="3"/>
+    <path d="m300 272-5 10 5 10 5-10z" fill="#82c7de"/>
+    <path d="m239 360-9 36-15 21m39-56-8 30-10 20m125-51 9 36 15 21m-39-56 8 30 10 20" stroke="#83a9ca" stroke-width="3" stroke-linecap="round"/>
+    <path d="m225 422 7-6 9 3 4 9m110 0 4-9 9-3 7 6m-70-18 6 14 13 5m-29-19-6 14-13 5" stroke="#dcebf5" stroke-width="3" stroke-linecap="round"/>
+    <path d="m436 195-17 220" stroke="#557aa2" stroke-width="8" stroke-linecap="round"/>
+    <path d="m438 194-17 219" stroke="#d0e6f2" stroke-width="3" stroke-linecap="round"/>
+    <path d="m435 148-23 27 8 25 17 13 21-20 2-28z" fill="url(#g)" stroke="#d2effb" stroke-width="3"/>
+    <path d="m435 148-2 37-13 15m13-15 25 8m-25-8 27-20m-27 20 4 28" stroke="#e6f7ff" stroke-width="2"/>
+    <path d="m415 166-12-8 2 28 13 23 17 12 22-14 15-27-2-21-14 10" stroke="#90aecb" stroke-width="5" stroke-linecap="round"/>
+    <path d="m427 222 13 1-4 10-7-1z" fill="#d4e7f3"/>
+    <path d="m419 407-9 12 8 11 9-11z" fill="#a7d5e8"/>
+  </g>
+  <g stroke="#b3d7ec" stroke-width="2" stroke-linecap="round"><path d="M147 90v19m-9-10h18m-15-7 13 13m0-13-13 13M488 320v18m-9-9h18m-15-6 12 12m0-12-12 12M115 301v13m-6-6h12M386 81v13m-6-6h12M164 366v12m-6-6h12"/></g>
+  <g fill="#e1f3ff"><circle cx="184" cy="110" r="3"/><circle cx="458" cy="105" r="3"/><circle cx="490" cy="241" r="2"/><circle cx="108" cy="230" r="3"/><circle cx="367" cy="377" r="2"/><circle cx="191" cy="320" r="2"/></g>
+  <circle cx="435" cy="179" r="19" fill="#c3eefe" opacity=".2" filter="url(#h)"/>
+</svg>

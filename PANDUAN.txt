@@ -1,0 +1,53 @@
+AETHERIA CHRONICLES — CARA MENJALANKAN
+
+1. Ekstrak seluruh ZIP terlebih dahulu. Jangan jalankan dari dalam ZIP.
+2. Pastikan index.html, engine.js, script.js, styles.css, dan folder assets
+   tetap berada dalam satu folder.
+
+Semua ilustrasi dan file game sudah termasuk. Tidak perlu npm atau akun.
+Gunakan server lokal di bawah untuk menjalankan game dan menyimpan progres
+dengan alamat yang konsisten.
+
+WINDOWS (DISARANKAN)
+- Pasang Python 3 dari https://www.python.org/downloads/ jika belum ada.
+- Saat instalasi, centang Add Python to PATH.
+- Klik dua kali MULAI-WINDOWS.bat.
+- Browser akan terbuka otomatis. Jika tidak, buka http://127.0.0.1:8000/
+- Biarkan jendela terminal terbuka selama bermain.
+
+MAC / LINUX (DISARANKAN)
+- Pastikan Python 3 tersedia: python3 --version
+- Buka Terminal di folder game, lalu jalankan:
+  python3 jalankan.py
+- Alternatif: sh mulai.sh
+- Browser terbuka otomatis; jika tidak, buka http://127.0.0.1:8000/
+
+ALTERNATIF TANPA SERVER
+Buka index.html langsung jika browser mengizinkan file lokal.
+Perilaku autosave dari file lokal berbeda antarbrowser. Jika tidak berjalan,
+gunakan launcher atau perintah server lokal di atas.
+
+PORT SUDAH DIPAKAI?
+Jalankan python3 jalankan.py --port 8001
+Di Windows: py -3 jalankan.py --port 8001
+Lalu buka http://127.0.0.1:8001/
+
+CARA BERMAIN
+- Adventure: kumpulkan Zeny, EXP, dan material.
+- Refinement: upgrade equipment hingga +15; Protection Stone mencegah turun
+  refine saat gagal.
+- MVP Hunt: lawan boss menggunakan Power Slash, Whirlwind, Restore, dan potion.
+- Quest Log: ambil hadiah quest harian dan achievement setelah selesai.
+- Merchant: beli material dengan Zeny atau Crystal yang didapatkan di game.
+- Profil: ubah nama, ekspor save, atau reset progres.
+
+SAVE
+Progres tersimpan di browser yang digunakan. Gunakan browser dan alamat
+(yang mencakup port) yang sama untuk melanjutkan. Save saat membuka index.html
+langsung terpisah dari save pada server lokal. Gunakan Export di profil untuk
+mengunduh salinan sebelum menghapus data browser. Ekspor adalah backup JSON;
+versi ini belum memiliki fitur impor save.
+
+Game single-player dengan guild dan peringkat companion NPC lokal.
+Tidak membutuhkan backend, internet saat bermain, atau pembayaran uang asli.
+Tutup server dengan Ctrl+C. Tidak perlu instal Node.js untuk bermain.
